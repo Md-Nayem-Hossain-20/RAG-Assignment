@@ -4,7 +4,7 @@ from app.vector_store import index, metadata, load_store
 import numpy as np
 
 client = OpenAI(
-    api_key="AIzaSyCbQRVanKSEwe2xW-3ET0WJGQbaW3SZGww",
+    api_key=" ",
     base_url="https://generativelanguage.googleapis.com/v1beta/openai/"
 ) 
 
