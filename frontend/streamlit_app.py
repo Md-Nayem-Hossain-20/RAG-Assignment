@@ -6,7 +6,7 @@ API_URL = os.getenv("API_URL", "http://localhost:8000")
 
 st.set_page_config(page_title="RAG Document QA")
 
-st.title("📄 RAG Document Question Answering")
+st.title("📄 Your Personal Chatbot for Question Answering")
 
 st.header("📤 Upload Document")
 
